@@ -1,6 +1,6 @@
 version: "3.3"
 services:
   web:
-    image: yourdockerhubusername/my-todo-app:latest
+    image: ankitchaudhary51/my-todo-app:latest
     ports:
       - "8080:80"
